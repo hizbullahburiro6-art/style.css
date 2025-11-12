@@ -1,0 +1,23 @@
+h1
+,p{
+    color:blueviolet
+}
+
+h1,p{
+    color: white;
+}
+#school{
+    color: blue;
+}
+.list>li{
+    color: blue;
+}
+.list>li{
+    color:brown;
+}
+span{
+    color: yellowgreen;
+}
+body{
+    background-color: brown;
+}
