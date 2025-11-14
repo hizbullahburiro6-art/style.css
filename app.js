@@ -21,6 +21,9 @@
 // var num = 10;
 // alert(num + 5 + '10')
 
-var fullname = "Hizbullah\nBuruiro";
+// var fullname = "Hizbullah\nBuruiro";
 
-alert(fullname);
+// alert(fullname);
+var fullname;
+
+console.log(fullname)
