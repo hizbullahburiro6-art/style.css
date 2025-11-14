@@ -24,6 +24,24 @@
 // var fullname = "Hizbullah\nBuruiro";
 
 // alert(fullname);
-var fullname;
+// var fullname;
 
-console.log(fullname)
+// console.log(fullname)
+// let a = 5;
+
+// console.log(a++)
+// console.log(a--)
+// let aptainmarks = 853;
+// let totalmarks = 1100;
+// let percentage =  (aptainmarks * 100) / totalmarks;
+// console.log(percentage); 
+
+// let x = Math.abs (4.7);
+// console.log(x);
+// let x = 5;
+// x = x * -1;
+// console.log(x);
+// let x = Math.max (0, 150, 30, 20, -8, -200);
+// console.log(x);
+let x = Math.random()*10;
+console.log(x);
